@@ -10,6 +10,6 @@ Ricardo Vargas
 
 Donnet Hernandez
 
-Yuu Ricardo Akachi
+Yuu Ricardo Akachi #Traidor
 
 Pablo Monzon
