@@ -23,7 +23,7 @@ cd computo_en_la_nube
 ```
 
 ### Paso 2: Ejecución de los Notebooks
-1. **Carga de Datos, Limpieza y Entrenamiento del Modelo:** Corre `model.ipynb` para generar el modelo de Machine Learning y los datos de prueba.
+1. **Carga de Datos, Limpieza y Entrenamiento del Modelo:** Corre `model.ipynb` para cargar los datos, limpiarlos eliminando columnas con valores nulos, modificando el formato de fecha y por último se eliminaron 3 columnas que no servían para el modelo. Finalmente se genera el modelo de Machine Learning (Random Forest) y los datos de prueba. 
 2. **Despliegue del Modelo:** Ejecuta `despliegue.ipynb` para preparar el modelo para producción.
 3. **Uso de la API:** Ejecuta `API.ipynb` para hacer inferencias con el modelo entrenado. Sustituye el archivo de prueba según sea necesario.
 
